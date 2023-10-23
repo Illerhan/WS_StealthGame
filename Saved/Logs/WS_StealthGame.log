@@ -1699,3 +1699,451 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.23-09.53.27:540][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 4.08 sec)
 [2023.10.23-09.53.27:544][446]AssetCheck: New page: Asset Save: Main_Map
 [2023.10.23-09.53.27:544][446]LogContentValidation: Display: Validating /Script/Engine.World /Game/Thomas_A/LVL/Main_Map.Main_Map
+[2023.10.23-10.03.27:624][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.10.23-10.03.27:625][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Thomas_A/LVL/Main_Map' took 0.020
+[2023.10.23-10.03.27:626][167]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Thomas_A/BP/BP_Gun] ([2] browsable assets)...
+[2023.10.23-10.03.27:703][167]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Thomas_A/BP/BP_Gun.BP_Gun]
+[2023.10.23-10.03.27:703][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/Thomas_A/BP/BP_Gun]
+[2023.10.23-10.03.27:703][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/BP/BP_Gun" FILE="../../../../../Projet/WS_StealthGame/Saved/Autosaves/Game/Thomas_A/BP/BP_Gun_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.10.23-10.03.27:707][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Thomas_A/BP/BP_Gun_Auto1
+[2023.10.23-10.03.27:707][167]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/BP_Gun_Auto19597F1804F344D61C6140D8C934423FB.tmp' to '../../../../../Projet/WS_StealthGame/Saved/Autosaves/Game/Thomas_A/BP/BP_Gun_Auto1.uasset'
+[2023.10.23-10.03.27:707][167]LogFileHelpers: Auto-saving content packages took 0.082
+[2023.10.23-10.24.31:779][960]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.10.23-10.24.31:779][960]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.10.23-10.36.03:216][ 33]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.23-10.36.03:591][ 33]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4368
+[2023.10.23-10.37.07:008][225]LogDerivedDataCache: C:/Users/thomas.abate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.066 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10432 files in 12051 folders with total size 441 MiB.
+[2023.10.23-10.45.30:721][736]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.10.23-10.59.47:932][307]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2023.10.23-10.59.47:984][307]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=DELL U2417H (2- NVIDIA High Definition Audio), InstanceID=1
+[2023.10.23-10.59.48:537][308]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{11de0bb2-dc6f-4ab9-b8ca-06b80ecdaab5}, Name=DELL U2417H (2- NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=41.78
+[2023.10.23-10.59.48:537][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.23-10.59.48:538][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.23-11.07.30:879][695]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.4.200:57608, Sequence=0
+[2023.10.23-11.07.30:911][695]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.4.200:57608, Sequence=0
+[2023.10.23-11.19.32:281][713]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Office_Desk_4_Two_Alt.Office_Desk_4_Two_Alt
+[2023.10.23-11.19.32:294][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.19.32:294][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.19.32:558][713]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.19.43:019][890]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Office_Desk_4_Two.Office_Desk_4_Two
+[2023.10.23-11.19.43:034][890]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.19.43:034][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.19.43:302][890]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.19.50:667][716]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Office_Desk_3_Alt.Office_Desk_3_Alt
+[2023.10.23-11.19.50:678][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.19.50:678][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.19.50:952][716]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.19.55:850][265]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.19.55:851][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.19.55:871][265]LogViewport: Scene viewport resized to 1096x719, mode Windowed.
+[2023.10.23-11.19.55:888][266]LogViewport: Scene viewport resized to 1096x714, mode Windowed.
+[2023.10.23-11.19.55:902][267]LogViewport: Scene viewport resized to 1096x709, mode Windowed.
+[2023.10.23-11.19.55:915][268]LogViewport: Scene viewport resized to 1096x705, mode Windowed.
+[2023.10.23-11.19.55:926][269]LogViewport: Scene viewport resized to 1096x701, mode Windowed.
+[2023.10.23-11.19.55:938][270]LogViewport: Scene viewport resized to 1096x698, mode Windowed.
+[2023.10.23-11.19.55:949][271]LogViewport: Scene viewport resized to 1096x694, mode Windowed.
+[2023.10.23-11.19.55:960][272]LogViewport: Scene viewport resized to 1096x691, mode Windowed.
+[2023.10.23-11.19.56:720][359]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.19.56:720][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.19.56:754][359]LogViewport: Scene viewport resized to 1096x721, mode Windowed.
+[2023.10.23-11.19.56:771][360]LogViewport: Scene viewport resized to 1096x712, mode Windowed.
+[2023.10.23-11.19.56:780][361]LogViewport: Scene viewport resized to 1096x707, mode Windowed.
+[2023.10.23-11.19.56:792][362]LogViewport: Scene viewport resized to 1096x704, mode Windowed.
+[2023.10.23-11.19.56:803][363]LogViewport: Scene viewport resized to 1096x700, mode Windowed.
+[2023.10.23-11.19.56:818][364]LogViewport: Scene viewport resized to 1096x696, mode Windowed.
+[2023.10.23-11.19.56:827][365]LogViewport: Scene viewport resized to 1096x693, mode Windowed.
+[2023.10.23-11.19.56:839][366]LogViewport: Scene viewport resized to 1096x691, mode Windowed.
+[2023.10.23-11.20.00:445][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-11.20.00:479][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/BP/BP_Gun" FILE="../../../../../Projet/WS_StealthGame/Content/Thomas_A/BP/BP_Gun.uasset" SILENT=true
+[2023.10.23-11.20.00:481][792]LogSavePackage: Moving output files for package: /Game/Thomas_A/BP/BP_Gun
+[2023.10.23-11.20.00:482][792]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/BP_Gun9358E1AB488BDE9DAEA99094A87D31CF.tmp' to '../../../../../Projet/WS_StealthGame/Content/Thomas_A/BP/BP_Gun.uasset'
+[2023.10.23-11.20.00:486][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 4.12 sec)
+[2023.10.23-11.20.00:492][792]AssetCheck: New page: Asset Save: BP_Gun
+[2023.10.23-11.20.00:492][792]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Thomas_A/BP/BP_Gun.BP_Gun
+[2023.10.23-11.20.01:880][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-11.20.01:930][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/BP/BP_Gun" FILE="../../../../../Projet/WS_StealthGame/Content/Thomas_A/BP/BP_Gun.uasset" SILENT=true
+[2023.10.23-11.20.01:932][944]LogSavePackage: Moving output files for package: /Game/Thomas_A/BP/BP_Gun
+[2023.10.23-11.20.01:932][944]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/BP_Gun248975564E39398D26F0D1A732EEEAFA.tmp' to '../../../../../Projet/WS_StealthGame/Content/Thomas_A/BP/BP_Gun.uasset'
+[2023.10.23-11.20.01:937][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 4.18 sec)
+[2023.10.23-11.20.01:942][944]AssetCheck: New page: Asset Save: BP_Gun
+[2023.10.23-11.20.01:942][944]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Thomas_A/BP/BP_Gun.BP_Gun
+[2023.10.23-11.20.06:901][487]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Thomas_A/Asset/Office_Desk_3_Alt.Office_Desk_3_Alt
+[2023.10.23-11.20.06:901][487]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Thomas_A/Asset/Office_Desk_3_Alt.Office_Desk_3_Alt
+[2023.10.23-11.20.06:901][487]LogActorFactory: Actor Factory spawned StaticMesh /Game/Thomas_A/Asset/Office_Desk_3_Alt.Office_Desk_3_Alt as actor: StaticMeshActor /Game/Thomas_A/LVL/Main_Map.Main_Map:PersistentLevel.StaticMeshActor_0
+[2023.10.23-11.20.06:909][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.07:157][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Thomas_A/Asset/Office_Desk_3_Alt.Office_Desk_3_Alt
+[2023.10.23-11.20.07:157][514]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Thomas_A/Asset/Office_Desk_3_Alt.Office_Desk_3_Alt
+[2023.10.23-11.20.07:158][514]LogActorFactory: Actor Factory spawned StaticMesh /Game/Thomas_A/Asset/Office_Desk_3_Alt.Office_Desk_3_Alt as actor: StaticMeshActor /Game/Thomas_A/LVL/Main_Map.Main_Map:PersistentLevel.StaticMeshActor_3
+[2023.10.23-11.20.07:180][514]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.07:180][514]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.12:871][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-11.20.12:930][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/LVL/Main_Map" FILE="../../../../../Projet/WS_StealthGame/Content/Thomas_A/LVL/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.23-11.20.12:951][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.10.23-11.20.12:958][112]LogSavePackage: Moving output files for package: /Game/Thomas_A/LVL/Main_Map
+[2023.10.23-11.20.12:958][112]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/Main_Map8DD1CEF742A282EBE7E1238558283A75.tmp' to '../../../../../Projet/WS_StealthGame/Content/Thomas_A/LVL/Main_Map.umap'
+[2023.10.23-11.20.12:963][112]LogFileHelpers: Saving map 'Main_Map' took 0.034
+[2023.10.23-11.20.12:969][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 4.28 sec)
+[2023.10.23-11.20.12:974][112]AssetCheck: New page: Asset Save: Main_Map
+[2023.10.23-11.20.12:974][112]LogContentValidation: Display: Validating /Script/Engine.World /Game/Thomas_A/LVL/Main_Map.Main_Map
+[2023.10.23-11.20.15:273][349]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-11.20.15:278][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-11.20.15:278][349]PIE: New page: PIE session: Main_Map (Oct 23, 2023, 3:20:15 PM)
+[2023.10.23-11.20.15:281][349]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.23-11.20.15:281][349]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.10.23-11.20.15:281][349]LogPlayLevel: Creating play world package: /Game/Thomas_A/LVL/UEDPIE_0_Main_Map
+[2023.10.23-11.20.15:283][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001914s)
+[2023.10.23-11.20.15:283][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Thomas_A/LVL/Main_Map.Main_Map to /Game/Thomas_A/LVL/UEDPIE_0_Main_Map.Main_Map (0.001956s)
+[2023.10.23-11.20.15:283][349]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.20.15:283][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.20.15:283][349]LogAIModule: Creating AISystem for world Main_Map
+[2023.10.23-11.20.15:284][349]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2023.10.23-11.20.15:301][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.23-11.20.15:302][349]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.23-11.20.15:302][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-11.20.15:302][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-11.20.15:302][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-11.20.15:302][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-11.20.15:302][349]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.23-11.20.15:302][349]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.23-11.20.15:302][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.23-11.20.15:302][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-11.20.15:303][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-11.20.15:303][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-11.20.15:303][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-11.20.15:305][349]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-11.20.15:323][349]LogAudioMixer: Display: Using Audio Hardware Device DELL U2417H (2- NVIDIA High Definition Audio)
+[2023.10.23-11.20.15:324][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-11.20.15:324][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-11.20.15:324][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-11.20.15:324][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.23-11.20.15:324][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.23-11.20.15:326][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.23-11.20.15:326][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.23-11.20.15:326][349]LogInit: FAudioDevice initialized with ID 2.
+[2023.10.23-11.20.15:326][349]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main_Map'.
+[2023.10.23-11.20.15:326][349]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.23-11.20.15:330][349]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.10.23-11.20.15:330][349]LogWorld: Bringing World /Game/Thomas_A/LVL/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2023.10.23-13.20.15
+[2023.10.23-11.20.15:330][349]LogWorld: Bringing up level for play took: 0.000722
+[2023.10.23-11.20.15:332][349]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.10.23-11.20.15:343][349]PIE: Server logged in
+[2023.10.23-11.20.15:343][349]PIE: Play in editor total start time 0.066 seconds.
+[2023.10.23-11.20.15:368][349]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.15:368][349]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.15:368][349]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.15:369][349]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.15:370][349]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.15:370][349]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.15:370][349]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.21:066][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-11.20.21:066][968]LogWorld: BeginTearingDown for /Game/Thomas_A/LVL/UEDPIE_0_Main_Map
+[2023.10.23-11.20.21:066][968]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.20.21:067][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.20.21:070][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-11.20.21:075][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.20.21:096][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-11.20.21:097][968]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.10.23-11.20.21:097][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.23-11.20.21:099][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.23-11.20.21:107][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.23-11.20.21:118][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.21:119][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.21:119][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.21:120][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.21:121][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.21:122][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.21:124][968]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.21:146][969]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.10.23-11.20.27:283][628]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.23-11.20.27:289][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.23-11.20.27:289][628]PIE: New page: PIE session: Main_Map (Oct 23, 2023, 3:20:27 PM)
+[2023.10.23-11.20.27:316][628]LogPlayLevel: Creating play world package: /Game/Thomas_A/LVL/UEDPIE_0_Main_Map
+[2023.10.23-11.20.27:318][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001957s)
+[2023.10.23-11.20.27:318][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Thomas_A/LVL/Main_Map.Main_Map to /Game/Thomas_A/LVL/UEDPIE_0_Main_Map.Main_Map (0.001990s)
+[2023.10.23-11.20.27:318][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.20.27:318][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.20.27:318][628]LogAIModule: Creating AISystem for world Main_Map
+[2023.10.23-11.20.27:319][628]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2023.10.23-11.20.27:336][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.10.23-11.20.27:338][628]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.23-11.20.27:338][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.23-11.20.27:338][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.23-11.20.27:338][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.23-11.20.27:338][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.23-11.20.27:338][628]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.23-11.20.27:338][628]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.23-11.20.27:338][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.23-11.20.27:338][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.23-11.20.27:339][628]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.23-11.20.27:339][628]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.23-11.20.27:339][628]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.23-11.20.27:341][628]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.23-11.20.27:359][628]LogAudioMixer: Display: Using Audio Hardware Device DELL U2417H (2- NVIDIA High Definition Audio)
+[2023.10.23-11.20.27:360][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.23-11.20.27:360][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.23-11.20.27:360][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.23-11.20.27:360][628]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.23-11.20.27:360][628]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.23-11.20.27:362][628]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.23-11.20.27:362][628]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.23-11.20.27:362][628]LogInit: FAudioDevice initialized with ID 3.
+[2023.10.23-11.20.27:362][628]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Map'.
+[2023.10.23-11.20.27:362][628]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.23-11.20.27:365][628]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.10.23-11.20.27:366][628]LogWorld: Bringing World /Game/Thomas_A/LVL/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2023.10.23-13.20.27
+[2023.10.23-11.20.27:366][628]LogWorld: Bringing up level for play took: 0.000784
+[2023.10.23-11.20.27:368][628]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.10.23-11.20.27:371][628]PIE: Server logged in
+[2023.10.23-11.20.27:372][628]PIE: Play in editor total start time 0.083 seconds.
+[2023.10.23-11.20.27:387][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.27:388][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.27:389][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.27:389][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.27:390][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.27:390][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.20.27:390][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.43:417][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-11.25.43:417][556]LogWorld: BeginTearingDown for /Game/Thomas_A/LVL/UEDPIE_0_Main_Map
+[2023.10.23-11.25.43:417][556]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.25.43:418][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.25.43:421][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.23-11.25.43:424][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.25.43:441][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.23-11.25.43:441][556]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.10.23-11.25.43:441][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.23-11.25.43:443][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.23-11.25.43:449][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.10.23-11.25.43:459][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.43:459][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.43:459][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.43:460][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.43:461][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.43:461][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.43:461][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.43:498][558]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.10.23-11.25.51:801][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Thomas_A/Asset/Paper_Stray.Paper_Stray
+[2023.10.23-11.25.51:801][442]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Thomas_A/Asset/Paper_Stray.Paper_Stray
+[2023.10.23-11.25.51:802][442]LogActorFactory: Actor Factory spawned StaticMesh /Game/Thomas_A/Asset/Paper_Stray.Paper_Stray as actor: StaticMeshActor /Game/Thomas_A/LVL/Main_Map.Main_Map:PersistentLevel.StaticMeshActor_4
+[2023.10.23-11.25.51:808][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.52:266][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Thomas_A/Asset/Paper_Stray.Paper_Stray
+[2023.10.23-11.25.52:266][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Thomas_A/Asset/Paper_Stray.Paper_Stray
+[2023.10.23-11.25.52:267][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/Thomas_A/Asset/Paper_Stray.Paper_Stray as actor: StaticMeshActor /Game/Thomas_A/LVL/Main_Map.Main_Map:PersistentLevel.StaticMeshActor_5
+[2023.10.23-11.25.52:287][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.52:288][492]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.52:342][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.52:343][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.52:343][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.52:344][493]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.54:292][713]Cmd: DELETE
+[2023.10.23-11.25.54:292][713]Cmd: ACTOR DELETE
+[2023.10.23-11.25.54:294][713]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.23-11.25.54:314][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.10.23-11.25.54:317][713]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.10.23-11.25.54:321][713]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.23-11.25.55:931][868]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Paper_Stray.Paper_Stray
+[2023.10.23-11.25.55:935][868]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.25.55:935][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.25.56:203][868]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.25.59:205][211]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Painting_Small2.Painting_Small2
+[2023.10.23-11.25.59:213][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.25.59:213][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.25.59:490][211]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.03:120][626]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Painting_Small.Painting_Small
+[2023.10.23-11.26.03:132][626]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.03:132][626]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.03:416][626]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.06:154][937]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Painting.Painting
+[2023.10.23-11.26.06:163][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.06:163][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.06:460][937]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.10:927][449]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/WallShelf_Box.WallShelf_Box
+[2023.10.23-11.26.10:936][449]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.10:936][449]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.11:231][449]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.13:646][726]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/WallShelf_HRect.WallShelf_HRect
+[2023.10.23-11.26.13:655][726]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.13:655][726]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.13:961][726]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.16:539][ 11]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/TrashBin_Small.TrashBin_Small
+[2023.10.23-11.26.16:548][ 11]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.16:548][ 11]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.16:858][ 11]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.18:691][216]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/TrashBin.TrashBin
+[2023.10.23-11.26.18:700][216]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.18:700][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.19:027][216]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.19:959][317]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Tape.Tape
+[2023.10.23-11.26.19:967][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.19:967][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.20:293][317]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.23:441][665]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/RFan_Base.RFan_Base
+[2023.10.23-11.26.23:448][665]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.23:448][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.23:780][665]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.33:545][813]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Rug_A.Rug_A
+[2023.10.23-11.26.33:552][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.33:552][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.33:898][813]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.39:464][432]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Nature_Deco_Bamboo2.Nature_Deco_Bamboo2
+[2023.10.23-11.26.39:472][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.39:472][432]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.39:819][432]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.44:446][933]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/FileCabinet_Small_Drawer_B.FileCabinet_Small_Drawer_B
+[2023.10.23-11.26.44:452][933]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.44:452][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.44:807][933]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.50:828][623]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Chair_A.Chair_A
+[2023.10.23-11.26.50:835][623]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.50:835][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.51:197][623]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.26.59:582][531]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/CoffeeTable.CoffeeTable
+[2023.10.23-11.26.59:587][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.26.59:587][531]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.26.59:950][531]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.27.07:078][296]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Office_Desk_drawer2.Office_Desk_drawer2
+[2023.10.23-11.27.07:084][296]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.27.07:084][296]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.27.07:455][296]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.27.09:771][542]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Office_Files_F.Office_Files_F
+[2023.10.23-11.27.09:775][542]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.27.09:775][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.27.10:152][542]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.27.16:435][230]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Thomas_A/Asset/Office_Files_E.Office_Files_E
+[2023.10.23-11.27.16:440][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.23-11.27.16:440][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-11.27.16:841][230]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.35.34:808][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.23-11.35.34:810][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/LVL/Main_Map" FILE="../../../../../Projet/WS_StealthGame/Saved/Autosaves/Game/Thomas_A/LVL/Main_Map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.10.23-11.35.34:815][516]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Thomas_A/LVL/Main_Map_Auto2
+[2023.10.23-11.35.34:815][516]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/Main_Map_Auto27174F7174A406C24D0DDB1BDCCA009FA.tmp' to '../../../../../Projet/WS_StealthGame/Saved/Autosaves/Game/Thomas_A/LVL/Main_Map_Auto2.umap'
+[2023.10.23-11.35.34:823][516]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Thomas_A/LVL/Main_Map' took 0.040
+[2023.10.23-11.35.34:823][516]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.10.23-11.37.06:025][790]LogDerivedDataCache: C:/Users/thomas.abate/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.083 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10457 files in 12077 folders with total size 441 MiB.
+[2023.10.23-11.43.02:975][996]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.02:975][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.03:005][996]LogViewport: Scene viewport resized to 1405x936, mode Windowed.
+[2023.10.23-11.43.03:037][997]LogViewport: Scene viewport resized to 1405x923, mode Windowed.
+[2023.10.23-11.43.03:050][998]LogViewport: Scene viewport resized to 1405x915, mode Windowed.
+[2023.10.23-11.43.03:072][999]LogViewport: Scene viewport resized to 1405x907, mode Windowed.
+[2023.10.23-11.43.03:096][  0]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.03:623][ 57]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.03:623][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.03:655][ 57]LogViewport: Scene viewport resized to 1405x938, mode Windowed.
+[2023.10.23-11.43.03:721][ 58]LogViewport: Scene viewport resized to 1405x910, mode Windowed.
+[2023.10.23-11.43.03:735][ 59]LogViewport: Scene viewport resized to 1405x903, mode Windowed.
+[2023.10.23-11.43.03:756][ 60]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.04:537][145]LogViewport: Scene viewport resized to 1405x942, mode Windowed.
+[2023.10.23-11.43.04:553][146]LogViewport: Scene viewport resized to 1405x931, mode Windowed.
+[2023.10.23-11.43.04:570][147]LogViewport: Scene viewport resized to 1405x924, mode Windowed.
+[2023.10.23-11.43.04:590][148]LogViewport: Scene viewport resized to 1405x916, mode Windowed.
+[2023.10.23-11.43.04:608][149]LogViewport: Scene viewport resized to 1405x909, mode Windowed.
+[2023.10.23-11.43.04:631][150]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.05:031][192]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.05:031][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.05:056][192]LogViewport: Scene viewport resized to 1405x938, mode Windowed.
+[2023.10.23-11.43.05:087][193]LogViewport: Scene viewport resized to 1405x927, mode Windowed.
+[2023.10.23-11.43.05:099][194]LogViewport: Scene viewport resized to 1405x919, mode Windowed.
+[2023.10.23-11.43.05:122][195]LogViewport: Scene viewport resized to 1405x910, mode Windowed.
+[2023.10.23-11.43.05:143][196]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.05:785][270]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.05:785][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.05:837][270]LogViewport: Scene viewport resized to 1405x938, mode Windowed.
+[2023.10.23-11.43.05:871][271]LogViewport: Scene viewport resized to 1405x927, mode Windowed.
+[2023.10.23-11.43.05:884][272]LogViewport: Scene viewport resized to 1405x915, mode Windowed.
+[2023.10.23-11.43.05:905][273]LogViewport: Scene viewport resized to 1405x907, mode Windowed.
+[2023.10.23-11.43.05:926][274]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.06:285][313]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.23-11.43.06:285][313]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.06:285][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.06:338][313]LogViewport: Scene viewport resized to 1405x939, mode Windowed.
+[2023.10.23-11.43.06:355][314]LogViewport: Scene viewport resized to 1405x927, mode Windowed.
+[2023.10.23-11.43.06:370][315]LogViewport: Scene viewport resized to 1405x920, mode Windowed.
+[2023.10.23-11.43.06:391][316]LogViewport: Scene viewport resized to 1405x912, mode Windowed.
+[2023.10.23-11.43.06:413][317]LogViewport: Scene viewport resized to 1405x904, mode Windowed.
+[2023.10.23-11.43.06:433][318]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.07:191][400]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.07:191][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.08:152][507]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.08:152][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.08:860][585]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.08:860][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.09:378][639]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.09:378][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.09:928][697]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.09:928][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.10:497][756]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.10:497][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.11:979][927]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.11:979][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.12:423][973]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.12:423][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.12:793][  9]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.12:794][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.13:010][ 27]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.13:010][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.14:515][177]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.14:515][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.14:537][177]LogViewport: Scene viewport resized to 1405x937, mode Windowed.
+[2023.10.23-11.43.14:570][178]LogViewport: Scene viewport resized to 1405x927, mode Windowed.
+[2023.10.23-11.43.14:587][179]LogViewport: Scene viewport resized to 1405x918, mode Windowed.
+[2023.10.23-11.43.14:603][180]LogViewport: Scene viewport resized to 1405x911, mode Windowed.
+[2023.10.23-11.43.14:624][181]LogViewport: Scene viewport resized to 1405x903, mode Windowed.
+[2023.10.23-11.43.14:644][182]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.15:562][287]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.15:562][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.15:588][287]LogViewport: Scene viewport resized to 1405x937, mode Windowed.
+[2023.10.23-11.43.15:606][288]LogViewport: Scene viewport resized to 1405x928, mode Windowed.
+[2023.10.23-11.43.15:624][289]LogViewport: Scene viewport resized to 1405x920, mode Windowed.
+[2023.10.23-11.43.15:645][290]LogViewport: Scene viewport resized to 1405x913, mode Windowed.
+[2023.10.23-11.43.15:671][291]LogViewport: Scene viewport resized to 1405x905, mode Windowed.
+[2023.10.23-11.43.15:682][292]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.16:715][405]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.16:715][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.16:738][405]LogViewport: Scene viewport resized to 1405x938, mode Windowed.
+[2023.10.23-11.43.16:754][406]LogViewport: Scene viewport resized to 1405x930, mode Windowed.
+[2023.10.23-11.43.16:779][407]LogViewport: Scene viewport resized to 1405x920, mode Windowed.
+[2023.10.23-11.43.16:800][408]LogViewport: Scene viewport resized to 1405x912, mode Windowed.
+[2023.10.23-11.43.16:820][409]LogViewport: Scene viewport resized to 1405x904, mode Windowed.
+[2023.10.23-11.43.16:842][410]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.17:914][532]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.17:914][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.17:937][532]LogViewport: Scene viewport resized to 1405x938, mode Windowed.
+[2023.10.23-11.43.17:971][533]LogViewport: Scene viewport resized to 1405x929, mode Windowed.
+[2023.10.23-11.43.17:983][534]LogViewport: Scene viewport resized to 1405x919, mode Windowed.
+[2023.10.23-11.43.18:003][535]LogViewport: Scene viewport resized to 1405x911, mode Windowed.
+[2023.10.23-11.43.18:024][536]LogViewport: Scene viewport resized to 1405x903, mode Windowed.
+[2023.10.23-11.43.18:044][537]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.18:392][574]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.18:392][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.18:421][574]LogViewport: Scene viewport resized to 1405x939, mode Windowed.
+[2023.10.23-11.43.18:433][575]LogViewport: Scene viewport resized to 1405x930, mode Windowed.
+[2023.10.23-11.43.18:462][576]LogViewport: Scene viewport resized to 1405x919, mode Windowed.
+[2023.10.23-11.43.18:481][577]LogViewport: Scene viewport resized to 1405x912, mode Windowed.
+[2023.10.23-11.43.18:498][578]LogViewport: Scene viewport resized to 1405x905, mode Windowed.
+[2023.10.23-11.43.18:516][579]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.19:696][716]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.19:696][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.19:721][716]LogViewport: Scene viewport resized to 1405x939, mode Windowed.
+[2023.10.23-11.43.19:736][717]LogViewport: Scene viewport resized to 1405x930, mode Windowed.
+[2023.10.23-11.43.19:765][718]LogViewport: Scene viewport resized to 1405x919, mode Windowed.
+[2023.10.23-11.43.19:784][719]LogViewport: Scene viewport resized to 1405x912, mode Windowed.
+[2023.10.23-11.43.19:804][720]LogViewport: Scene viewport resized to 1405x904, mode Windowed.
+[2023.10.23-11.43.19:820][721]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.20:658][815]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.20:658][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.20:688][815]LogViewport: Scene viewport resized to 1405x941, mode Windowed.
+[2023.10.23-11.43.20:703][816]LogViewport: Scene viewport resized to 1405x930, mode Windowed.
+[2023.10.23-11.43.20:732][817]LogViewport: Scene viewport resized to 1405x919, mode Windowed.
+[2023.10.23-11.43.20:752][818]LogViewport: Scene viewport resized to 1405x911, mode Windowed.
+[2023.10.23-11.43.20:770][819]LogViewport: Scene viewport resized to 1405x904, mode Windowed.
+[2023.10.23-11.43.20:789][820]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.21:718][926]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.21:718][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.23-11.43.21:737][926]LogViewport: Scene viewport resized to 1405x940, mode Windowed.
+[2023.10.23-11.43.21:751][927]LogViewport: Scene viewport resized to 1405x934, mode Windowed.
+[2023.10.23-11.43.21:780][928]LogViewport: Scene viewport resized to 1405x923, mode Windowed.
+[2023.10.23-11.43.21:798][929]LogViewport: Scene viewport resized to 1405x916, mode Windowed.
+[2023.10.23-11.43.21:816][930]LogViewport: Scene viewport resized to 1405x909, mode Windowed.
+[2023.10.23-11.43.21:835][931]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.10.23-11.43.22:983][ 63]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.10.23-11.43.22:983][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
