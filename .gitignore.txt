@@ -1,0 +1,5 @@
+Config/
+DerivedDataCache/
+Intermediate/
+Platforms/
+Saved/
