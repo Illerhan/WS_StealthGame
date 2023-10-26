@@ -8499,3 +8499,303 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.26-07.29.14:535][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 2.15 sec)
 [2023.10.26-07.29.14:540][790]AssetCheck: New page: Asset Save: Main_Map
 [2023.10.26-07.29.14:540][790]LogContentValidation: Display: Validating /Script/Engine.World /Game/Thomas_A/LVL/Main_Map.Main_Map
+[2023.10.26-07.30.08:060][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-07.30.08:107][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/LVL/Main_Map" FILE="../../../../../Projet/WS_StealthGame/Content/Thomas_A/LVL/Main_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.26-07.30.08:127][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.26-07.30.08:161][296]LogSavePackage: Moving output files for package: /Game/Thomas_A/LVL/Main_Map
+[2023.10.26-07.30.08:161][296]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/Main_Map6AF8D17F4FC8278204E4BE99E5102A42.tmp' to '../../../../../Projet/WS_StealthGame/Content/Thomas_A/LVL/Main_Map.umap'
+[2023.10.26-07.30.08:169][296]LogFileHelpers: Saving map 'Main_Map' took 0.061
+[2023.10.26-07.30.08:174][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 2.26 sec)
+[2023.10.26-07.30.08:179][296]AssetCheck: New page: Asset Save: Main_Map
+[2023.10.26-07.30.08:179][296]LogContentValidation: Display: Validating /Script/Engine.World /Game/Thomas_A/LVL/Main_Map.Main_Map
+[2023.10.26-07.30.10:156][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:156][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:157][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:157][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:158][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:158][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:158][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:159][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:159][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:159][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:160][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:160][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:160][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:161][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:161][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:163][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:163][442]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.26-07.30.10:181][443]LogViewport: Scene viewport resized to 419x284, mode Windowed.
+[2023.10.26-07.30.14:340][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-07.30.22:560][ 39]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ennemy/BP_BaseEnemy.BP_BaseEnemy
+[2023.10.26-07.30.22:561][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-07.30.22:561][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.26-07.30.24:116][189]LogViewport: Scene viewport resized to 1189x691, mode Windowed.
+[2023.10.26-07.30.47:551][972]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2023.10.26-07.30.47:626][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-07.30.47:626][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.26-07.30.47:814][972]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.10.26-07.30.48:016][972]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.30.48:016][972]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.30.48:016][972]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.30.48:027][972]LogViewport: Scene viewport resized to 644x448, mode Windowed.
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: ================================================
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: Total job queries 36, among them cache hits 0 (0.00%)
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: Tracking 36 distinct input hashes that result in 26 distinct outputs (72.22%)
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: RAM used: 810.28 KiB of 1.60 GiB budget. Usage: 0.05%
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.26-07.30.48:227][973]LogShaderCompilers: Display: ================================================
+[2023.10.26-07.30.48:254][974]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.10.26-07.30.48:254][974]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.10.26-07.30.48:254][974]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.26-07.30.48:254][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.30.48:254][974]MaterialEditorStats: Shader Count: 4
+[2023.10.26-07.30.50:741][203]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2023.10.26-07.30.50:756][203]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-07.30.50:756][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-07.30.53:161][472]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/BasicShapes: 'D:/Epic Games/UE_5.2/Engine/Content/BasicShapes' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.30.53:877][535]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.30.56:099][777]LogContentBrowser: Deferred new asset file creation: BasicShapeMaterial_Inst1
+[2023.10.26-07.30.56:117][777]LogContentBrowser: Creating deferred item: BasicShapeMaterial_Inst1
+[2023.10.26-07.30.56:129][778]LogContentBrowser: Renaming the item being created (Deferred Item: BasicShapeMaterial_Inst1).
+[2023.10.26-07.31.00:042][245]LogContentBrowser: Attempting asset rename: BasicShapeMaterial_Inst1 -> BasicShapeMaterial_Inst1
+[2023.10.26-07.31.00:103][245]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/BasicShapes: 'D:/Epic Games/UE_5.2/Engine/Content/BasicShapes' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.31.00:107][245]LogContentBrowser: End creating deferred item BasicShapeMaterial_Inst1
+[2023.10.26-07.31.00:147][247]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/BasicShapes: 'D:/Epic Games/UE_5.2/Engine/Content/BasicShapes' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.31.00:878][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.10.26-07.31.03:641][331]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.26-07.31.03:671][332]LogAutomationController: Ignoring very large delta of 2.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.26-07.31.03:714][336]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/BasicShapes: 'D:/Epic Games/UE_5.2/Engine/Content/BasicShapes' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.31.03:930][353]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/BasicShapes: 'D:/Epic Games/UE_5.2/Engine/Content/BasicShapes' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.31.04:492][414]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Engine/BasicShapes/BasicShapeMaterial_Inst1.BasicShapeMaterial_Inst1
+[2023.10.26-07.31.04:493][414]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-07.31.04:493][414]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.26-07.31.04:652][414]LogViewport: Scene viewport resized to 982x902, mode Windowed.
+[2023.10.26-07.31.04:684][414]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.26-07.32.32:783][263]LogSlate: Window 'BasicShapeMaterial_Inst1' being destroyed
+[2023.10.26-07.32.32:810][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.10.26-07.32.32:888][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.26-07.32.32:905][263]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-07.32.32:905][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-07.32.36:910][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.10.26-07.32.38:471][713]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.26-07.32.38:527][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.26-07.32.38:548][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.10.26-07.32.38:568][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.26-07.32.46:228][568]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.26-07.32.46:251][568]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.26-07.32.46:263][569]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.26-07.32.47:931][769]LogContentBrowser: Attempting asset rename: NewFolder -> Mat
+[2023.10.26-07.32.47:932][769]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.26-07.32.50:406][ 21]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.10.26-07.32.50:414][ 21]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.10.26-07.32.50:434][ 23]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.10.26-07.33.21:289][712]LogContentBrowser: Attempting asset rename: NewMaterial -> Ennemy_vision_aigle
+[2023.10.26-07.33.21:370][712]LogContentBrowser: End creating deferred item NewMaterial
+[2023.10.26-07.33.22:142][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-07.33.22:196][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/Mat/Ennemy_vision_aigle" FILE="../../../../../Projet/WS_StealthGame/Content/Thomas_A/Mat/Ennemy_vision_aigle.uasset" SILENT=true
+[2023.10.26-07.33.22:213][795]LogSavePackage: Moving output files for package: /Game/Thomas_A/Mat/Ennemy_vision_aigle
+[2023.10.26-07.33.22:213][795]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/Ennemy_vision_aigle7CDBE99F4E4E248FF9077B96917543B9.tmp' to '../../../../../Projet/WS_StealthGame/Content/Thomas_A/Mat/Ennemy_vision_aigle.uasset'
+[2023.10.26-07.33.22:367][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 2.49 sec)
+[2023.10.26-07.33.22:373][795]AssetCheck: New page: Asset Save: Ennemy_vision_aigle
+[2023.10.26-07.33.22:373][795]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Thomas_A/Mat/Ennemy_vision_aigle.Ennemy_vision_aigle
+[2023.10.26-07.33.24:870][ 72]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2023.10.26-07.33.24:873][ 72]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-07.33.24:873][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.26-07.33.25:029][ 72]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.33.25:029][ 72]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.25:029][ 72]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.33.25:040][ 72]LogViewport: Scene viewport resized to 644x448, mode Windowed.
+[2023.10.26-07.33.25:094][ 74]MaterialEditorStats: Base pass shader: 232 instructions
+[2023.10.26-07.33.25:094][ 74]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.10.26-07.33.25:094][ 74]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.26-07.33.25:094][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.25:094][ 74]MaterialEditorStats: Shader Count: 4
+[2023.10.26-07.33.26:099][155]LogViewport: Scene viewport resized to 643x460, mode Windowed.
+[2023.10.26-07.33.26:198][157]LogViewport: Scene viewport resized to 342x222, mode Windowed.
+[2023.10.26-07.33.26:221][158]LogViewport: Scene viewport resized to 259x157, mode Windowed.
+[2023.10.26-07.33.26:485][186]LogViewport: Scene viewport resized to 644x448, mode Windowed.
+[2023.10.26-07.33.26:558][188]LogViewport: Scene viewport resized to 1189x722, mode Windowed.
+[2023.10.26-07.33.26:581][188]LogViewport: Scene viewport resized to 643x460, mode Windowed.
+[2023.10.26-07.33.26:604][189]LogViewport: Scene viewport resized to 1189x708, mode Windowed.
+[2023.10.26-07.33.26:646][190]LogViewport: Scene viewport resized to 1189x695, mode Windowed.
+[2023.10.26-07.33.26:682][190]LogViewport: Scene viewport resized to 261x158, mode Windowed.
+[2023.10.26-07.33.26:702][191]LogViewport: Scene viewport resized to 1189x691, mode Windowed.
+[2023.10.26-07.33.26:710][191]LogViewport: Scene viewport resized to 259x157, mode Windowed.
+[2023.10.26-07.33.26:777][198]LogViewport: Scene viewport resized to 644x448, mode Windowed.
+[2023.10.26-07.33.27:126][239]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2023.10.26-07.33.27:131][239]LogViewport: Scene viewport resized to 644x476, mode Windowed.
+[2023.10.26-07.33.27:143][240]LogViewport: Scene viewport resized to 644x473, mode Windowed.
+[2023.10.26-07.33.27:158][241]LogViewport: Scene viewport resized to 644x471, mode Windowed.
+[2023.10.26-07.33.27:172][242]LogViewport: Scene viewport resized to 644x467, mode Windowed.
+[2023.10.26-07.33.27:186][243]LogViewport: Scene viewport resized to 644x465, mode Windowed.
+[2023.10.26-07.33.27:201][244]LogViewport: Scene viewport resized to 644x462, mode Windowed.
+[2023.10.26-07.33.27:215][245]LogViewport: Scene viewport resized to 644x459, mode Windowed.
+[2023.10.26-07.33.27:230][246]LogViewport: Scene viewport resized to 644x457, mode Windowed.
+[2023.10.26-07.33.27:245][247]LogViewport: Scene viewport resized to 644x453, mode Windowed.
+[2023.10.26-07.33.27:259][248]LogViewport: Scene viewport resized to 644x451, mode Windowed.
+[2023.10.26-07.33.27:273][249]LogViewport: Scene viewport resized to 644x448, mode Windowed.
+[2023.10.26-07.33.37:153][430]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-07.33.37:153][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-07.33.37:183][430]LogViewport: Scene viewport resized to 1189x726, mode Windowed.
+[2023.10.26-07.33.37:200][431]LogViewport: Scene viewport resized to 1189x717, mode Windowed.
+[2023.10.26-07.33.37:224][432]LogViewport: Scene viewport resized to 1189x709, mode Windowed.
+[2023.10.26-07.33.37:238][433]LogViewport: Scene viewport resized to 1189x704, mode Windowed.
+[2023.10.26-07.33.37:252][434]LogViewport: Scene viewport resized to 1189x700, mode Windowed.
+[2023.10.26-07.33.37:265][435]LogViewport: Scene viewport resized to 1189x696, mode Windowed.
+[2023.10.26-07.33.37:278][436]LogViewport: Scene viewport resized to 1189x692, mode Windowed.
+[2023.10.26-07.33.37:292][437]LogViewport: Scene viewport resized to 1189x691, mode Windowed.
+[2023.10.26-07.33.38:583][584]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Thomas_A/Mat/Ennemy_vision_aigle.Ennemy_vision_aigle
+[2023.10.26-07.33.38:586][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.26-07.33.38:586][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.26-07.33.38:746][584]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.33.38:746][584]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.38:746][584]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.33.38:759][584]LogViewport: Scene viewport resized to 644x448, mode Windowed.
+[2023.10.26-07.33.41:080][773]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.10.26-07.33.41:080][773]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.33.41:080][773]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.41:080][773]MaterialEditorStats: Shader Count: 3
+[2023.10.26-07.33.41:180][782]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.10.26-07.33.41:180][782]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.10.26-07.33.41:180][782]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.26-07.33.41:180][782]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.41:180][782]MaterialEditorStats: Shader Count: 4
+[2023.10.26-07.33.41:997][855]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.33.41:997][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.41:997][855]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.33.42:032][857]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.10.26-07.33.42:032][857]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.10.26-07.33.42:032][857]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.26-07.33.42:032][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.42:032][857]MaterialEditorStats: Shader Count: 4
+[2023.10.26-07.33.46:564][278]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.33.46:564][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.46:564][278]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.33.46:608][280]MaterialEditorStats: Base pass shader: 222 instructions
+[2023.10.26-07.33.46:608][280]MaterialEditorStats: Base pass vertex shader: 244 instructions
+[2023.10.26-07.33.46:608][280]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.26-07.33.46:608][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.46:608][280]MaterialEditorStats: Shader Count: 4
+[2023.10.26-07.33.48:456][445]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.33.48:456][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.48:456][445]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: ================================================
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Total job queries 92, among them cache hits 46 (50.00%)
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Tracking 44 distinct input hashes that result in 30 distinct outputs (68.18%)
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: RAM used: 961.63 KiB of 1.60 GiB budget. Usage: 0.06%
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Job execution time: average 2.16 s, max 2.31 s
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Job life time (pending + execution): average 2.23 s, max 2.39
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.39 s
+[2023.10.26-07.33.48:498][448]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display: Average processing rate: 1.67 jobs/sec
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display: Total thread time: 1.96 s
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display: Total thread preprocess time: 0.065 s
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display: Percentage time preprocessing: 3.32%
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display: Effective parallelization: 0.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.78% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.89% of total time (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.37% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.97% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2023.10.26-07.33.48:499][448]LogShaderCompilers: Display: ================================================
+[2023.10.26-07.33.49:150][498]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.10.26-07.33.49:150][498]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.26-07.33.49:150][498]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.33.49:150][498]MaterialEditorStats: Shader Count: 2
+[2023.10.26-07.34.04:807][913]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.34.04:807][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.04:807][913]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.34.04:849][915]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.10.26-07.34.04:849][915]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.26-07.34.04:849][915]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.04:849][915]MaterialEditorStats: Shader Count: 2
+[2023.10.26-07.34.08:548][241]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.34.08:548][241]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.08:548][241]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.34.09:263][297]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.10.26-07.34.09:263][297]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.26-07.34.09:263][297]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.09:263][297]MaterialEditorStats: Shader Count: 2
+[2023.10.26-07.34.10:180][379]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.34.10:180][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.10:181][379]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.34.10:232][381]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.10.26-07.34.10:233][381]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.26-07.34.10:233][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.10:233][381]MaterialEditorStats: Shader Count: 2
+[2023.10.26-07.34.13:472][678]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.34.13:472][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.13:472][678]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.34.13:508][680]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.10.26-07.34.13:508][680]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.26-07.34.13:508][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.13:508][680]MaterialEditorStats: Shader Count: 2
+[2023.10.26-07.34.21:580][452]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.26-07.34.21:580][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.21:580][452]MaterialEditorStats: Shader Count: 0
+[2023.10.26-07.34.22:248][504]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.10.26-07.34.22:248][504]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.26-07.34.22:248][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.22:248][504]MaterialEditorStats: Shader Count: 2
+[2023.10.26-07.34.23:730][644]LogMaterialEditor: Saving and Compiling material Ennemy_vision_aigle
+[2023.10.26-07.34.23:784][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.10.26-07.34.24:270][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.10.26-07.34.24:358][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-07.34.26:365][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/Mat/Ennemy_vision_aigle" FILE="../../../../../Projet/WS_StealthGame/Content/Thomas_A/Mat/Ennemy_vision_aigle.uasset" SILENT=true
+[2023.10.26-07.34.26:366][644]LogSavePackage: Moving output files for package: /Game/Thomas_A/Mat/Ennemy_vision_aigle
+[2023.10.26-07.34.26:366][644]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/Ennemy_vision_aigle17DB6C6E48335E37940D1F9F6492E244.tmp' to '../../../../../Projet/WS_StealthGame/Content/Thomas_A/Mat/Ennemy_vision_aigle.uasset'
+[2023.10.26-07.34.26:371][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.01 sec (total: 4.50 sec)
+[2023.10.26-07.34.26:377][644]AssetCheck: New page: Asset Save: Ennemy_vision_aigle
+[2023.10.26-07.34.26:377][644]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Thomas_A/Mat/Ennemy_vision_aigle.Ennemy_vision_aigle
+[2023.10.26-07.34.26:378][644]MaterialEditorStats: Base pass shader: 219 instructions
+[2023.10.26-07.34.26:378][644]MaterialEditorStats: Base pass vertex shader: 281 instructions
+[2023.10.26-07.34.26:378][644]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.26-07.34.26:378][644]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.26-07.34.26:378][644]MaterialEditorStats: Shader Count: 20
+[2023.10.26-07.34.26:388][645]LogAutomationController: Ignoring very large delta of 2.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.26-07.34.28:013][781]LogSlate: Window 'Ennemy_vision_aigle' being destroyed
+[2023.10.26-07.34.28:027][781]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.26-07.34.28:027][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.26-07.34.34:647][532]LogContentBrowser: Deferred new asset file creation: Ennemy_vision_aigle_Inst
+[2023.10.26-07.34.34:669][532]LogContentBrowser: Creating deferred item: Ennemy_vision_aigle_Inst
+[2023.10.26-07.34.34:679][533]LogContentBrowser: Renaming the item being created (Deferred Item: Ennemy_vision_aigle_Inst).
+[2023.10.26-07.34.35:831][670]LogContentBrowser: Attempting asset rename: Ennemy_vision_aigle_Inst -> Ennemy_vision_aigle_Inst
+[2023.10.26-07.34.35:938][670]LogContentBrowser: End creating deferred item Ennemy_vision_aigle_Inst
+[2023.10.26-07.34.36:786][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.26-07.34.36:848][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Thomas_A/Mat/Ennemy_vision_aigle_Inst" FILE="../../../../../Projet/WS_StealthGame/Content/Thomas_A/Mat/Ennemy_vision_aigle_Inst.uasset" SILENT=true
+[2023.10.26-07.34.36:849][762]LogSavePackage: Moving output files for package: /Game/Thomas_A/Mat/Ennemy_vision_aigle_Inst
+[2023.10.26-07.34.36:850][762]LogSavePackage: Moving '../../../../../Projet/WS_StealthGame/Saved/Ennemy_vision_aigle_InstBF0C431943E7EE2CF6746B865AFE11E3.tmp' to '../../../../../Projet/WS_StealthGame/Content/Thomas_A/Mat/Ennemy_vision_aigle_Inst.uasset'
+[2023.10.26-07.34.37:002][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 4.71 sec)
+[2023.10.26-07.34.37:006][762]AssetCheck: New page: Asset Save: Ennemy_vision_aigle_Inst
+[2023.10.26-07.34.37:006][762]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Thomas_A/Mat/Ennemy_vision_aigle_Inst.Ennemy_vision_aigle_Inst
+[2023.10.26-07.34.51:184][392]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/MapTemplates/Materials: 'D:/Epic Games/UE_5.2/Engine/Content/MapTemplates/Materials' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.51:184][392]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/BasicShapes: 'D:/Epic Games/UE_5.2/Engine/Content/BasicShapes' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.53:240][594]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MAT.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.53:583][629]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_ModuleDisable_MAT.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.53:925][660]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_RenderLights_MAT.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_RenderLights_MAT.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.54:300][704]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_RenderNone_MAT.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_RenderNone_MAT.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.54:312][705]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_RenderNormal_MAT.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_RenderNormal_MAT.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.54:665][747]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_RenderPoint_MAT.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Cascade/CASC_RenderPoint_MAT.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.54:750][756]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.54:767][758]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/CheckMaterial.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/CheckMaterial.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.54:768][758]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Camera/CineMat.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorMaterials/Camera/CineMat.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.59:206][178]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/BufferVisualization/FinalImage.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/BufferVisualization/FinalImage.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.59:241][179]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.59:614][220]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.59:659][221]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
+[2023.10.26-07.34.59:704][226]SourceControl: fatal: D:/Epic Games/UE_5.2/Engine/Content/EngineMaterials/EditorBrushMaterial.uasset: 'D:/Epic Games/UE_5.2/Engine/Content/EngineMaterials/EditorBrushMaterial.uasset' is outside repository at 'D:/Projet/WS_StealthGame'
